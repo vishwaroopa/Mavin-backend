@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_infos",
+  "info": {
+    "name": "info",
+    "icon": "ankh"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_shared_footers",
+  "info": {
+    "name": "Footer",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "address": {
+      "type": "string"
+    },
+    "number": {
+      "type": "string"
+    },
+    "number1": {
+      "type": "string"
+    },
+    "duns": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "copyright": {
+      "type": "string"
+    },
+    "content": {
+      "type": "string"
+    }
+  }
+}
